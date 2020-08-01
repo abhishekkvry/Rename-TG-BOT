@@ -17,7 +17,7 @@ SEE /help For My Features"""
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully⚡️"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Download aayi mwole😎"
-    CUSTOM_CAPTION_UL_FILE = """**__Follow Our Channel :
+    CUSTOM_CAPTION_UL_FILE = f"{file_name}"  """**__Follow Our Channel :
 @Cine_Street_Movies
 @Cine_Street_Series
 
